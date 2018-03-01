@@ -8,7 +8,6 @@ def artist_name
   artist = nil
   if self.artist
     artist = self.artist.name
-
   end
   artist
 end
